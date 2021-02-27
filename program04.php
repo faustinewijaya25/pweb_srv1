@@ -4,6 +4,7 @@ require_once("daftar_dosen.php");
 require_once("mahasiswa.php")
 ?>
 <!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">

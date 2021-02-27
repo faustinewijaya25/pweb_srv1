@@ -8,6 +8,7 @@ class mahasiswa
   public $jk;
   public $dosen_pa;
 
+
   public function Mahasiswa($nim)
   {
     $this->nim = $nim;

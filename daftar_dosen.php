@@ -85,6 +85,5 @@ class Daftar_dosen
       ],
     ];
   }
-
 }
  ?>

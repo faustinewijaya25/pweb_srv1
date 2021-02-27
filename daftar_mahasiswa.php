@@ -16,7 +16,6 @@ class Daftar_mahasiswa
     // dieksekusi otomatis setiap kali object terbentuk dari class ini;
 
     $this->initData();
-
   }
 
   /**
