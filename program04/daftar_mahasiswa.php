@@ -1,5 +1,4 @@
 <?php
-
 /**
   class untuk sample data mahasiswa
 */

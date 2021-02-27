@@ -5,7 +5,6 @@
 */
 class Daftar_dosen
 {
-
   private $daftardosen;
 
   /**
